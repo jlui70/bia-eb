@@ -19,7 +19,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA EB V7 via AWS Beanstalk",
+  title: "BIA EB V7 - Deploy Automatizado",
 };
 
 export default Header;
